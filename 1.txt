@@ -1,0 +1,11 @@
+复制、
+git clone //PC-20191206RZMH/Service
+
+
+git add .
+git commit -m "提交的注释"
+git push origin  ：//PC-20190906SKCU/yima.git
+
+
+更新
+git pull
